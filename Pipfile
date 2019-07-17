@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pelican = "*"
+markdown = "*"
+typogrify = "*"
+fabric = "*"
+awscli = "*"
+pelican-youtube = "*"
+pelican-vimeo = "*"
+webassets = "*"
+cssmin = "*"
+jinja2-webpack = "*"
+ipdb = "*"
+python-decouple = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
