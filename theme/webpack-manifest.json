@@ -1,7 +1,7 @@
 {
-  "maincss.js": "js/maincss-3d5b3849a427f564a3ab.js",
-  "maincss.css": "maincss-3d5b3849a427f564a3ab.css",
-  "mainjs.js": "js/mainjs-3d5b3849a427f564a3ab.js",
+  "maincss.js": "js/maincss-17aae97f4c6ffa9df3fa.js",
+  "maincss.css": "maincss-17aae97f4c6ffa9df3fa.css",
+  "mainjs.js": "js/mainjs-17aae97f4c6ffa9df3fa.js",
   "fonts/fa-brands-400.eot": "fonts/fa-brands-400.eot",
   "fonts/fa-brands-400.svg": "fonts/fa-brands-400.svg",
   "fonts/fa-brands-400.ttf": "fonts/fa-brands-400.ttf",
@@ -17,7 +17,6 @@
   "fonts/fa-solid-900.ttf": "fonts/fa-solid-900.ttf",
   "fonts/fa-solid-900.woff": "fonts/fa-solid-900.woff",
   "fonts/fa-solid-900.woff2": "fonts/fa-solid-900.woff2",
-  "images/.DS_Store": "images/.DS_Store",
   "images/favicon.ico": "images/favicon.ico",
   "images/gallery/fulls/01.jpg": "images/gallery/fulls/01.jpg",
   "images/gallery/fulls/02.jpg": "images/gallery/fulls/02.jpg",
