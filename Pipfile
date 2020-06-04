@@ -16,6 +16,7 @@ cssmin = "*"
 jinja2-webpack = "*"
 ipdb = "*"
 python-decouple = "*"
+ghp-import = "*"
 
 [dev-packages]
 
